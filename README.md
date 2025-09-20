@@ -1,7 +1,8 @@
 # camera-SDK
 
 A Camera SDK is like a universal remote for every camera, on every device. It acts as a smart "middleman," an abstraction layer, between your app and the complex, often finicky, camera hardware lurking inside every phone. 
-A Camera SDK is your ready-made toolkit for camera features.
+
+A Camera SDK is a ready-made toolkit for camera features.
 It's a clever abstraction layer, simplifying tough hardware and OS interactions.
 It offers standard APIs and pre-built code, making development much faster.
 
